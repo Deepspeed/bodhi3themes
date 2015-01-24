@@ -1,0 +1,10 @@
+Package: bodhi-theme-e17-earth-worm
+Version: 2.1
+Section: main
+Priority: optional
+Architecture: all
+Replaces: bodhi-theme-earth-worm
+Conflicts: e19
+Maintainer: lostbumpkin
+Description: Bodhi Earth-Worm Theme for E17
+ Enlightenment theme designed for the Bodhi E17 Desktop

@@ -1,0 +1,10 @@
+Package: bodhi-theme-e17-3dom
+Version: 1.1
+Section: main
+Priority: optional
+Architecture: all
+Replaces: bodhi-theme-3dom
+Conflicts: e19
+Maintainer: Doug Yanez <Deepspeed@bodhilinux.com>
+Description: Bodhi 3dom for E17
+ Enlightenment theme designed for the Bodhi E17 Desktop

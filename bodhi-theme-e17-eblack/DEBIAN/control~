@@ -1,0 +1,8 @@
+Package: bodhi-theme-sky
+Version: 2.0
+Section: main
+Priority: optional
+Architecture: all
+Maintainer: Jeff Hoogland
+Description: Bodhi Sky Theme
+ Enlightenment theme designed for the Bodhi Desktop

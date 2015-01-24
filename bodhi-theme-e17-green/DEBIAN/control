@@ -1,0 +1,11 @@
+Package: bodhi-theme-e17-green
+Version: 2.1
+Section: main
+Priority: optional
+Architecture: all
+Replaces: bodhi-theme-green
+Conflicts: e19
+Maintainer: Doug Yanez <Deepspeed@bodhilinux.com>
+Description: Bodhi Green Theme for E17
+ A recolored default Enlightenment theme
+ for the Bodhi E17 desktop - Green on gray

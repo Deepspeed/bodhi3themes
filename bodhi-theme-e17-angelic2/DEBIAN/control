@@ -1,0 +1,10 @@
+Package: bodhi-theme-e17-angelic2
+Version: 2.1
+Section: main
+Priority: optional
+Architecture: all
+Replaces: bodhi-theme-angelic2
+Conflicts: e19
+Maintainer: Doug Yanez <Deepspeed@bodhilinux.com>
+Description: Bodhi Angelic2 Theme for E17
+ Enlightenment theme designed for the Bodhi E17 Desktop

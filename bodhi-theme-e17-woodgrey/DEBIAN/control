@@ -1,0 +1,10 @@
+Package: bodhi-theme-e17-woodgrey
+Version: 2.1
+Section: main
+Priority: optional
+Architecture: all
+Replaces: bodhi-theme-woodgrey
+Conflicts: e19
+Maintainer: Doug Yanez <Deepspeed@bodhilinux.com>
+Description: Bodhi Wood Grey Theme for E17
+ Enlightenment theme designed for the Bodhi E17 Desktop

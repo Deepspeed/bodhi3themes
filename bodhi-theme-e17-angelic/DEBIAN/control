@@ -1,0 +1,10 @@
+Package: bodhi-theme-e17-angelic
+Version: 2.1
+Section: main
+Priority: optional
+Architecture: all
+Replaces: bodhi-theme-e17-angelic2, bodhi-theme-e17-a-angelic-v3, bodhi-theme-angelic
+Conflicts: e19
+Maintainer: Doug Yanez <Deepspeed@bodhilinux.com>
+Description: Bodhi Angelic Theme for E17
+ A light, white theme for the E17 desktop

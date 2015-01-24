@@ -1,0 +1,10 @@
+Package: bodhi-theme-e17-envious
+Version: 1.1
+Section: main
+Priority: optional
+Architecture: all
+Replaces: bodhi-theme-envious
+Conflicts: e19
+Maintainer: Doug Yanez <Deepspeed@bodhilinux.com>
+Description: Bodhi Envious Theme for E17
+ Enlightenment theme designed for the Bodhi E17 Desktop

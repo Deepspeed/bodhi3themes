@@ -1,0 +1,10 @@
+Package: bodhi-theme-pack-e17
+Version: 2.1
+Section: main
+Priority: optional
+Architecture: all
+Depends: e17, bodhi-theme-e17, bodhi-theme-e17-3dom, bodhi-theme-e17-7, bodhi-theme-e17-1890, bodhi-theme-e17-agust, bodhi-theme-e17-ambient, bodhi-theme-e17-angelic, bodhi-theme-e17-a-angelic-v3, bodhi-theme-e17-apple17, bodhi-theme-e17-beauty, bodhi-theme-e17-beauty2, bodhi-theme-e17-blingblack, bodhi-theme-e17-blingbling, bodhi-theme-e17-blue-angle, bodhi-theme-e17-boox, bodhi-theme-e17-brown, bodhi-theme-e17-crema, bodhi-theme-e17-detourious, bodhi-theme-e17-dukes, bodhi-theme-e17-earth-worm, bodhi-theme-e17-eblack, bodhi-theme-e17-egypt, bodhi-theme-e17-electric, bodhi-theme-e17-elegant, bodhi-theme-e17-elitist, bodhi-theme-e17-envious, bodhi-theme-e17-faces, bodhi-theme-e17-genesis, bodhi-theme-e17-green, bodhi-theme-e17-greyish, bodhi-theme-e17-invidia, bodhi-theme-e17-japan, bodhi-theme-e17-kl4k, bodhi-theme-e17-lanoche, bodhi-theme-e17-lg2, bodhi-theme-e17-lucax, bodhi-theme-e17-luxe, bodhi-theme-e17-lynx, bodhi-theme-e17-magic-bodhi, bodhi-theme-e17-mariad, bodhi-theme-e17-metal, bodhi-theme-e17-miguel, bodhi-theme-e17-miguel2, bodhi-theme-e17-milky, bodhi-theme-e17-moonlight, bodhi-theme-e17-moonlight2, bodhi-theme-e17-mystery, bodhi-theme-e17-ness, bodhi-theme-e17-nitrous, bodhi-theme-e17-nogal, bodhi-theme-e17-nostrum, bodhi-theme-e17-passion, bodhi-theme-e17-pink, bodhi-theme-e17-rednight, bodhi-theme-e17-sgrey, bodhi-theme-e17-sirius, bodhi-theme-e17-smoke, bodhi-theme-e17-speedy, bodhi-theme-e17-squiggle, bodhi-theme-e17-sunshine, bodhi-theme-e17-teknarki, bodhi-theme-e17-vice-versa, bodhi-theme-e17-vision, bodhi-theme-e17-vision2, bodhi-theme-e17-white, bodhi-theme-e17-wood, bodhi-theme-e17-woodgrey
+Conflicts: e19
+Maintainer: Doug Yanez <Deepspeed@bodhilinux.com>
+Description: Bodhi Theme Pack for E17
+ A meta-package to install all Bodhi themes for E17 Stable

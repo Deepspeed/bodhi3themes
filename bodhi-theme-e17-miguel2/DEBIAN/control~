@@ -1,0 +1,8 @@
+Package: bodhi-theme-luxe
+Version: 2.0
+Section: main
+Priority: optional
+Architecture: all
+Maintainer: Jeff Hoogland
+Description: Bodhi Luxe Theme
+ Enlightenment theme designed for the Bodhi Desktop
