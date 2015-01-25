@@ -1,8 +1,0 @@
-Package: bodhi-theme-moonlight
-Version: 2.0
-Section: main
-Priority: optional
-Architecture: all
-Maintainer: Jeff Hoogland
-Description: Bodhi Moonlight Theme
- Enlightenment theme designed for the Bodhi Desktop

@@ -1,9 +1,0 @@
-Package: bodhi-theme-pack
-Version: 2.03
-Section: main
-Priority: optional
-Architecture: all
-Depends: bodhi-theme-1890, bodhi-theme-agust, bodhi-theme-electric, bodhi-theme-genesis, bodhi-theme-japan, bodhi-theme-luxe, bodhi-theme-magic-bodhi, bodhi-theme-miguel, bodhi-theme-moonlight, bodhi-theme-passion, bodhi-theme-sgrey, bodhi-theme-sky, bodhi-theme-woodgrey, bodhi-theme-angelic, bodhi-theme-detourious, bodhi-theme-eblack, bodhi-theme-green, bodhi-theme-ness, bodhi-theme-nostrum, bodhi-theme-egypt, bodhi-theme-vision
-Maintainer: Jeff Hoogland
-Description: Bodhi Pack Theme
- A meta package to install all Bodhi themes for E17 Stable
