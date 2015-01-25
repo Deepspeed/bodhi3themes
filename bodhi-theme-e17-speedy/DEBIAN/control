@@ -1,10 +1,10 @@
 Package: bodhi-theme-e17-speedy
-Version: 0.04
+Version: 0.1
 Section: unknown
 Priority: optional
 Architecture: all
 Depends: e17
-Conflicts: e19
+Conflicts: e19, e18
 Maintainer: Doug Yanez <Deepspeed@bodhilinux.com>
 Description: Custom E17 theme for Bodhi 3.0
  A Bodhi Linux custom theme for the Bodhi E17 Desktop
