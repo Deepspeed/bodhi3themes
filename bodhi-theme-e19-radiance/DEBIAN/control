@@ -1,0 +1,11 @@
+Package: bodhi-theme-e19-radiance
+Version: 1.0
+Section: main
+Priority: optional
+Architecture: all
+Depends: e19, light-themes
+Replaces: radiance-theme-e19
+Conflicts: e17, radiance-theme-e19
+Maintainer: Jeff Hoogland <Jeff@bodhilinux.com>
+Description: Radiance Theme for E19
+ Enlightenment theme designed for the E19 Desktop
