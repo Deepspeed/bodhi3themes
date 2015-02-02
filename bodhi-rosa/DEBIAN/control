@@ -1,0 +1,9 @@
+Package: bodhi-rosa
+Version: 0.5
+Section: main
+Priority: optional
+Architecture: all
+Replaces: bodhi-theme
+Maintainer: Jeff Hoogland <Jeff@bodhilinux.com>
+Description: Rosa Icon Set
+ Icon set for the Bodhi desktop
