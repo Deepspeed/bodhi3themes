@@ -1,0 +1,10 @@
+Package: bodhi-theme-e19-forum
+Version: 1.0
+Section: main
+Priority: optional
+Architecture: all
+Depends: e19
+Conflicts: e17
+Maintainer: Jeff Hoogland <Jeff@bodhilinux.com>
+Description: Forum Theme for E19
+ Enlightenment theme designed for the E19 Desktop

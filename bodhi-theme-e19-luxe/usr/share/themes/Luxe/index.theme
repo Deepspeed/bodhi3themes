@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Clear-Lux Topaz
+Comment=Modified ClearlooksClassic Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Clear-Lux Topaz
+MetacityTheme=Clear-Lux Topaz
+IconTheme=Mix-Icons
+CursorTheme=Topaz-Cursor
+CursorSize=24
+ButtonLayout=:minimize,maximize,close

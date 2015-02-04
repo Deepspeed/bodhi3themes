@@ -1,0 +1,33 @@
+/* default color scheme */
+@define-color bg_color #505254;
+@define-color fg_color #000000;
+@define-color base_color #303234;
+@define-color text_color #CC8800;
+@define-color selected_bg_color #664400;
+@define-color selected_fg_color #CC8800;
+@define-color tooltip_bg_color #505254;
+@define-color tooltip_fg_color #000000;
+
+/* misc colors used by gtk+ */
+@define-color info_fg_color rgb (0, 170, 255);
+@define-color info_bg_color rgb (0, 85, 128);
+@define-color warning_fg_color rgb (255, 128, 0);
+@define-color warning_bg_color rgb (128, 64, 0);
+@define-color question_fg_color rgb (0, 255, 85);
+@define-color question_bg_color rgb (0, 128, 42);
+@define-color error_fg_color rgb (255, 0, 85);
+@define-color error_bg_color rgb (128, 0, 42);
+@define-color link_color #00FFFF;
+@define-color visited_link_color #5500FF;
+@define-color error_color #FF0055;
+
+/* theme common colors */
+@define-color button_bg_color shade (@bg_color, 1.2);
+@define-color button_insensitive_bg_color shade (@bg_color, 0.75);
+@define-color dark_bg_color #303234;
+@define-color dark_fg_color #996600;
+@define-color transparent rgba (0, 0, 0, 0);
+@define-color backdrop_selected_bg_color shade (@bg_color, 0.90);
+@define-color backdrop_selected_fg_color @fg_color;
+
+@import url("gtk-widgets.css");
