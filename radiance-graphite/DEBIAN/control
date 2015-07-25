@@ -1,0 +1,9 @@
+Package: radiance-graphite
+Version: 0.1
+Section: main
+Priority: optional
+Depends: light-themes
+Architecture: all
+Maintainer: Jeff Hoogland <Jeff@bodhilinux.com>
+Description: Graphite Colored Radiance GTK Theme
+ GTK theme for the Bodhi desktop
