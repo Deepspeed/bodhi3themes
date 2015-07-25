@@ -1,0 +1,9 @@
+Package: bodhi-awoken
+Version: 0.1
+Section: main
+Priority: optional
+Depends: ubuntu-mono, hicolor-icon-theme
+Architecture: all
+Maintainer: Jeff Hoogland <Jeff@bodhilinux.com>
+Description: Awoken Icon Set
+ Icon set for the Bodhi desktop
