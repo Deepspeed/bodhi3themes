@@ -1,0 +1,9 @@
+Package: bodhi-theme-terminology-chrome
+Version: 1.0
+Section: main
+Priority: optional
+Architecture: all
+Depends: terminology
+Maintainer: Jeff Hoogland <Jeff@bodhilinux.com>
+Description: Bodhi Theme for Terminology
+ Chrome themed terminology theme
